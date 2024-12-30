@@ -11,7 +11,6 @@ This project aims to detect diseases in cotton leaves using a convolutional neur
 - [Usage](#usage)
 - [Dataset](#dataset)
 - [Model Details](#model-details)
-- [License](#license)
 
 ---
 
